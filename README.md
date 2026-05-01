@@ -1,2 +1,16 @@
-# bda-project
-This project demonstrates Big Data processing using Hadoop and Apache Pig. It includes HDFS file operations and multiple data analysis queries (such as total revenue, top products, and customer insights) implemented through a user-friendly shell script interface.
+# Big Data Analytics Project
+
+## Technologies
+- Hadoop
+- Pig
+- Shell Scripting
+
+## Features
+- HDFS operations
+- Data analysis using Pig
+- Menu-driven interface
+
+## How to Run
+```bash
+chmod +x demo.sh
+./demo.sh
